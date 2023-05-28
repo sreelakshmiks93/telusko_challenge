@@ -1,2 +1,2 @@
 # telusko_challenge
-Repository created for participating in Macbook challenge conducted by Telusko
+Repository created for participating in 10 day challenge conducted by Telusko
